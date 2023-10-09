@@ -1,0 +1,160 @@
+
+		
+		@media (max-width: 480px) {		
+				.navbar-nav.up .nav-link{
+					text-transform: capitalize;
+				}
+				.nav-link.log{
+						margin: 0 0 0 0;
+				
+				}
+				h2{
+					color: black;
+					opacity: 0.3;
+					display: none;
+				}
+				.navbar-nav.down .nav-link{
+					display: none;
+				}
+				footer{
+					padding: 0 26% 18% 0;
+					margin: 76% 0 0 0 ;
+				}
+				.lay.o{
+					display: none;
+				}
+
+			}
+			
+
+		@media (min-width: 481px) and (max-width: 767px) {
+			.navbar-nav.up .nav-link{
+				text-transform: capitalize;
+			
+			}
+			
+			.nav-link.log{
+					margin: 0 0 0 0;
+			
+			}
+			h2{
+				color: white;
+				opacity: 0.3;
+				display: none;
+			}
+			.navbar-nav.down .nav-link{
+				display: none;
+				
+			}	
+			
+			footer{
+				display: none;
+			}
+			.input-group.u{
+				display: none;
+			}
+			.lay.o{
+				display: none;
+			}	
+		}
+		
+
+		@media (min-width: 768px) and (max-width: 1024px){
+			.navbar-nav.up .nav-link{
+				margin: 0 10px 0 15px;
+				text-transform: capitalize;
+		
+			}
+			
+			.navbar-brand{
+				margin: 0 0 0 15px;
+			
+			}
+			.nav-link.log{
+					margin: 0 0 0 1%;
+			
+			}
+			h2{
+				color: white;
+				opacity: 0.3;
+				display: none;
+			}
+			.navbar-nav.down .nav-link{
+				display: none;
+			}
+			footer{
+				display:none;
+			}
+			.rounded{
+				width: 100%;
+			}
+			.input-group.l{
+				display: none;
+			}
+			.lay.l{
+				display: none;
+			}
+			
+		}
+
+		@media (min-width: 1025px) and (max-width: 1280px){
+			
+			
+			.navbar-nav.up .nav-link.book{
+				display: none;
+				}
+			
+			
+			.nav-link.log{
+					margin: 0 0 0 100%;
+				
+			}
+			h2{
+				color: black;
+				opacity: 0.3;
+			}
+			.rounded{
+				width: 100%;
+			}
+			footer{
+				margin: 10% 0 0 0 ;
+			}
+			.input-group.l{
+				display: none;
+			}
+			.lay.l{
+				display:none;
+			}
+		}
+		
+		
+		
+
+		@media (min-width: 1281px) and (max-width: 1366px){
+			
+			
+			.navbar-nav.up .nav-link.book{
+				display: none;
+				}
+			
+			
+			.nav-link.log{
+					margin: 0 0 0 100%;
+				
+			}
+			h2{
+				color: black;
+				opacity: 0.3;
+			}
+			footer{
+				margin: 10% 0 0 0 ;
+			}
+			.input-group.l{
+				display: none;
+			}
+			.lay.l{
+				display:none;
+			}
+		}
+		
+		
